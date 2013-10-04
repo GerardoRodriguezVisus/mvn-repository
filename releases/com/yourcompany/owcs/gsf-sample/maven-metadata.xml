@@ -4,10 +4,11 @@
   <artifactId>gsf-sample</artifactId>
   <version>11.6.0</version>
   <versioning>
-    <release>11.6.0</release>
+    <release>11.6.1</release>
     <versions>
       <version>11.6.0</version>
+      <version>11.6.1</version>
     </versions>
-    <lastUpdated>20130611104021</lastUpdated>
+    <lastUpdated>20131004120000</lastUpdated>
   </versioning>
 </metadata>
